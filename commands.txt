@@ -1,0 +1,19 @@
+## Altering this file will display wrongful information
+
+commands: Shows this.
+ip: Displays the IP.
+status: Shows if the API response was a success or not.
+country: Displays the country.
+region: Displays the region.
+regionname: Displays the region name.
+city: Displays the city.
+zip: Displays the zip code.
+lat: Displays the latitude.
+lon: Displays the longitude.
+timezone: Displays the timezone.
+isp: Displays the internet service provider.
+org: Displays the organization.
+as: Displays the autonomous system.
+all: Displays all information.
+export: Exports all information to results.txt.
+exit: Stops the program.
